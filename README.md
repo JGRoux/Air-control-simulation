@@ -3,7 +3,7 @@ C using Allegro library air control simulation
 
 Using Dijkstra algorithm to find the best way for flights
 
-Contributeurs:
+**Contributeurs:**
 - Geoffrey Lassade
 - Thomas Poujol
 - Jean-Guillaume Roux
